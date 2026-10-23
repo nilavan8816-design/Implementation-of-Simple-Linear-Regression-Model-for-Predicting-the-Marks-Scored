@@ -24,8 +24,8 @@ To write a program to predict the marks scored by a student using the simple lin
 ```
 /*
 Program to implement univariate Linear Regression to fit a straight line using least squares.
-Developed by: Bavan Vel K
-RegisterNumber: 2122240020006
+Developed by: Ponnilavan N
+RegisterNumber: 212224060186
 
 # Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored
 import pandas as pd
